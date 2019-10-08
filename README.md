@@ -8,6 +8,8 @@ Still a lot of exe files are used to infect machines, not only scripts in Powers
 You have to write a key to the registry of all you clients, where the name of the key under "Image File Execution Options" must be the known name of the malware. Let`s assume the name is *malware.exe* then you need to create this key
 **\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\malware.exe**
 
+![Example](reg.jpg?raw=true "Example")
+
 Then create a REG_SZ string with the name Debugger and as its value enter the path to rvaccine.exe. That is all!
 You can test it easily with a key name like *notepad.exe* and the path to rvaccine.exe. Once the key is set, you cannot execute Notepad  and longer.
 
