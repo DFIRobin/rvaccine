@@ -23,14 +23,15 @@ In which scenarios does this all make sense?
 
 ## The Deployment Part
 
-The file rvaccine.exe must be in %PATH% to be found- sorry. 
-Putting it somewhere in C:\Program Files\ does not make sense, it should go to %SYSTEMROOT%\System32\. 
-Deploy it via
+The file rvaccine.exe must be in %PATH% if you only want to use the entry "rvaccine.exe" as string in the registry. But you can also use a full qualified path to any folder.
+
+Deploy the file and the registry entries via
 1. SCCM or any other Endpoint Management software (preferred solution) or 
 2. as part of your login script in Active Directory or
 3. by hand from your workstation when 1. and 2. are not posssible for any reason
 
 
 
-## Idea
-This project is based on an idea from Florian Roth
+## Idea & Credits
+This project is based on an idea from Florian Roth https://gist.github.com/Neo23x0/3a245e6206951f17125f2b214b160fe8
+
