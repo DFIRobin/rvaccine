@@ -1,0 +1,14 @@
+c:\users\robin\source\repos\rvaccine\rvaccine\bin\Debug\rvaccine.exe.config
+c:\users\robin\source\repos\rvaccine\rvaccine\bin\Debug\rvaccine.exe
+c:\users\robin\source\repos\rvaccine\rvaccine\bin\Debug\rvaccine.pdb
+c:\users\robin\source\repos\rvaccine\rvaccine\bin\Debug\System.Net.Http.dll
+c:\users\robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.csprojAssemblyReference.cache
+c:\users\robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.csproj.CoreCompileInputs.cache
+c:\users\robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.csproj.CopyComplete
+c:\users\robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.exe
+c:\users\robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.pdb
+C:\Users\Robin\source\repos\rvaccine\rvaccine\bin\Debug\rvaccine.exe.manifest
+C:\Users\Robin\source\repos\rvaccine\rvaccine\bin\Debug\rvaccine.application
+C:\Users\Robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.TrustInfo.xml
+C:\Users\Robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.exe.manifest
+C:\Users\Robin\source\repos\rvaccine\rvaccine\obj\Debug\rvaccine.application
