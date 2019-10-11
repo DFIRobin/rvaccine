@@ -6,7 +6,7 @@ This little project was made to provide a workaround to prevent infections from 
 Still a lot of exe files are used to infect machines, not only scripts in Powershell or WMI. The execution of *known* exe files can be prevented by using the *Debugger* entry in the local registry of a Windows operating system. Again, you *must* know the name of the executable file you want to block. Otherwise this workaround will fail.
 
 You have to write a key to the registry of all you clients, where the name of the key under "Image File Execution Options" must be the known name of the malware. Let`s assume the name is *ransomware.exe* then you need to create this key
-**\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\malware.exe**
+**\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ransomware.exe**
 
 ![Example](pix/reg.jpg?raw=true "Example")
 
