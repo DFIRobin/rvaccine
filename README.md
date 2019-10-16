@@ -30,7 +30,7 @@ The file rvaccine.exe must be in %PATH% if you only want to use the entry "rvacc
 Deploy the file and the registry entries via
 1. SCCM or any other Endpoint Management software (recommended solution) or 
 2. using Active Directory with a dedicated policy setting as you can see in this screenshot  
-![Pic](pics/ADDeploy.jpg?raw=true "Pic")
+![Pic](pix/ADDeploy.jpg?raw=true "Pic")
 3. by hand from your workstation when 1. and 2. are not posssible for any reason
 
 See the Wiki and the scripts folder for scripts that can support you with the manual deployment
