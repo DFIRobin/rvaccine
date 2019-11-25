@@ -34,7 +34,7 @@ http://kunaludapi.blogspot.com/2015/08/copy-files-on-all-computers-using-group.h
 ![Pic](pix/ADDeploy.jpg?raw=true "Pic")
 3. by hand from your workstation when 1. and 2. are not posssible for any reason
 
-See the Wiki and the scripts folder for scripts that can support you with the manual deployment.
+See the Wiki and the [Deployment Options](https://github.com/DFIRobin/rvaccine/wiki/Deployment-Options) folder for scripts that can support you with a manual deployment.
 
 ## Idea & Credits
 
